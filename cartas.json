@@ -1,5 +1,1605 @@
 [
   {
+    "categoria": "Lugar",
+    "resposta": "Cristo Redentor",
+    "dicas": [
+      "Sou um dos cartões-postais mais famosos do Brasil.",
+      "Fico no topo de uma montanha.",
+      "Tenho os braços abertos.",
+      "Estou localizado no estado do Rio de Janeiro.",
+      "Recebo milhões de visitantes.",
+      "Fui inaugurado em 1931.",
+      "Sou considerado uma das Novas Sete Maravilhas do Mundo.",
+      "Posso ser visto de vários pontos da cidade.",
+      "Represento uma figura religiosa.",
+      "Estou na cidade do Rio de Janeiro."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Cataratas do Iguaçu",
+    "dicas": [
+      "Sou uma atração natural.",
+      "Estou na fronteira entre dois países.",
+      "Recebo muitos turistas todos os anos.",
+      "Sou formado por diversas quedas d'água.",
+      "Faço parte de um parque nacional.",
+      "Estou localizado no Paraná.",
+      "Sou Patrimônio Mundial da UNESCO.",
+      "Um dos meus pontos mais famosos é a Garganta do Diabo.",
+      "Produzo um grande volume de água.",
+      "Sou uma das maiores cataratas do mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Amazonas",
+    "dicas": [
+      "Sou uma região brasileira muito conhecida.",
+      "Abrigo a maior floresta tropical do planeta.",
+      "Possuo enorme biodiversidade.",
+      "Meu nome também pertence a um estado brasileiro.",
+      "Tenho rios gigantes.",
+      "Sou fundamental para o equilíbrio climático.",
+      "Abrigo milhares de espécies.",
+      "Ocupo grande parte do norte do Brasil.",
+      "Meu principal rio leva o mesmo nome.",
+      "Sou conhecido como o pulmão do mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Pelourinho",
+    "dicas": [
+      "Estou localizado em uma capital nordestina.",
+      "Sou famoso pela minha arquitetura colonial.",
+      "Tenho ruas de pedra.",
+      "Sou Patrimônio Mundial da UNESCO.",
+      "Minha região possui casas coloridas.",
+      "Tenho forte influência cultural africana.",
+      "Recebo muitos turistas.",
+      "Sou palco de festas populares.",
+      "Estou em Salvador.",
+      "Sou um dos centros históricos mais famosos do Brasil."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Chapada Diamantina",
+    "dicas": [
+      "Sou um destino de ecoturismo.",
+      "Estou localizado na Bahia.",
+      "Possuo cachoeiras impressionantes.",
+      "Tenho trilhas famosas.",
+      "Aventureiros gostam de me visitar.",
+      "Abrigo cavernas e grutas.",
+      "Minha paisagem mistura montanhas e vales.",
+      "Faço parte de um parque nacional.",
+      "Sou conhecido por minhas belezas naturais.",
+      "Meu nome contém uma pedra preciosa."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Torre Eiffel",
+    "dicas": [
+      "Sou uma estrutura metálica.",
+      "Fui construída para uma exposição mundial.",
+      "Estou localizada na Europa.",
+      "Recebo milhões de visitantes.",
+      "Sou um símbolo nacional.",
+      "Tenho mais de 300 metros de altura.",
+      "Posso ser iluminada à noite.",
+      "Estou em uma capital famosa.",
+      "Fico em Paris.",
+      "Sou um dos monumentos mais conhecidos do mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Muralha da China",
+    "dicas": [
+      "Sou uma construção histórica.",
+      "Tenho milhares de quilômetros de extensão.",
+      "Fui construída para defesa.",
+      "Estou localizada na Ásia.",
+      "Posso ser vista do espaço é um mito popular.",
+      "Levei séculos para ser construída.",
+      "Sou Patrimônio Mundial da UNESCO.",
+      "Recebo muitos turistas.",
+      "Meu nome está ligado a um país.",
+      "Sou uma das maiores obras da humanidade."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Machu Picchu",
+    "dicas": [
+      "Sou uma antiga cidade.",
+      "Estou localizada em uma região montanhosa.",
+      "Fui construída por uma civilização indígena.",
+      "Sou Patrimônio Mundial da UNESCO.",
+      "Recebo visitantes do mundo todo.",
+      "Estou na América do Sul.",
+      "Fico em grande altitude.",
+      "Estou localizada no Peru.",
+      "Sou associada aos incas.",
+      "Sou uma das Novas Sete Maravilhas do Mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Coliseu",
+    "dicas": [
+      "Sou uma construção da Antiguidade.",
+      "Estou localizado na Europa.",
+      "Já recebi grandes espetáculos.",
+      "Tenho formato circular.",
+      "Fui palco de combates famosos.",
+      "Estou em uma capital histórica.",
+      "Sou um símbolo do Império Romano.",
+      "Recebo milhões de turistas.",
+      "Fico em Roma.",
+      "Sou um dos monumentos mais famosos da Itália."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Praia de Copacabana",
+    "dicas": [
+      "Sou uma praia muito famosa.",
+      "Estou localizada no Brasil.",
+      "Recebo grandes eventos de Ano-Novo.",
+      "Tenho um famoso calçadão.",
+      "Fico próxima ao oceano Atlântico.",
+      "Sou visitada por turistas do mundo inteiro.",
+      "Estou em uma grande cidade.",
+      "Meu nome possui quatro sílabas.",
+      "Estou no Rio de Janeiro.",
+      "Sou uma das praias mais conhecidas do mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Fernando de Noronha",
+    "dicas": [
+      "Sou um arquipélago brasileiro.",
+      "Tenho praias paradisíacas.",
+      "Sou famoso pela preservação ambiental.",
+      "Mergulhadores gostam de me visitar.",
+      "Estou localizado no oceano Atlântico.",
+      "Possuo rica vida marinha.",
+      "Recebo visitantes controladamente.",
+      "Faço parte de Pernambuco.",
+      "Golfinhos são frequentemente vistos por aqui.",
+      "Sou um dos destinos turísticos mais desejados do Brasil."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Avenida Paulista",
+    "dicas": [
+      "Sou uma via urbana muito famosa.",
+      "Estou localizada em uma grande metrópole brasileira.",
+      "Recebo eventos culturais.",
+      "Tenho muitos prédios comerciais.",
+      "Aos domingos costumo ser fechada para carros.",
+      "Sou um importante centro financeiro.",
+      "Abrigo museus e centros culturais.",
+      "Sou muito movimentada.",
+      "Estou em São Paulo.",
+      "Sou uma das avenidas mais famosas do Brasil."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Maracanã",
+    "dicas": [
+      "Sou um local esportivo.",
+      "Recebi finais importantes.",
+      "Já fui um dos maiores do mundo em capacidade.",
+      "Estou localizado no Brasil.",
+      "Recebi partidas de Copa do Mundo.",
+      "Sou associado ao futebol.",
+      "Grandes clubes jogam em mim.",
+      "Fui inaugurado em 1950.",
+      "Estou no Rio de Janeiro.",
+      "Sou um estádio muito famoso."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Disney World",
+    "dicas": [
+      "Sou um complexo turístico.",
+      "Recebo milhões de visitantes por ano.",
+      "Tenho diversos parques temáticos.",
+      "Sou muito procurado por famílias.",
+      "Personagens famosos aparecem por aqui.",
+      "Tenho atrações radicais.",
+      "Estou localizado nos Estados Unidos.",
+      "Fico na Flórida.",
+      "Estou associado a uma empresa de entretenimento.",
+      "Sou conhecido como o lugar mais mágico do mundo."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Estátua da Liberdade",
+    "dicas": [
+      "Sou um monumento famoso.",
+      "Represento um valor importante para muitas pessoas.",
+      "Fui um presente de outro país.",
+      "Estou localizada em uma ilha.",
+      "Tenho uma tocha.",
+      "Recebo muitos turistas.",
+      "Estou nos Estados Unidos.",
+      "Sou um símbolo de Nova York.",
+      "Minha cor atual é esverdeada.",
+      "Meu nome envolve liberdade."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Lagoa da Pampulha",
+    "dicas": [
+      "Estou localizada em Minas Gerais.",
+      "Sou uma atração turística brasileira.",
+      "Fico em uma importante cidade do sudeste.",
+      "Tenho projetos arquitetônicos famosos ao meu redor.",
+      "Fui planejada com participação de Oscar Niemeyer.",
+      "Sou Patrimônio Mundial da UNESCO.",
+      "Recebo visitantes para caminhadas e lazer.",
+      "Estou em Belo Horizonte.",
+      "Sou uma lagoa artificial.",
+      "Meu nome começa com L."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Monte Everest",
+    "dicas": [
+      "Sou uma formação natural.",
+      "Estou localizado na Ásia.",
+      "Atraio aventureiros experientes.",
+      "Tenho temperaturas extremamente baixas.",
+      "Minha escalada é muito desafiadora.",
+      "Estou na cordilheira do Himalaia.",
+      "Fico próximo à fronteira de dois países.",
+      "Sou famoso mundialmente.",
+      "Tenho mais de 8 mil metros de altitude.",
+      "Sou a montanha mais alta do planeta."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Lençóis Maranhenses",
+    "dicas": [
+      "Sou uma atração natural brasileira.",
+      "Estou localizado no Nordeste.",
+      "Possuo grandes dunas de areia.",
+      "Minhas lagoas aparecem em determinadas épocas do ano.",
+      "Sou um parque nacional.",
+      "Minha paisagem é única no mundo.",
+      "Recebo muitos turistas.",
+      "Estou no Maranhão.",
+      "Meu nome lembra um item de cama.",
+      "Sou famoso pelas lagoas entre as dunas."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Pão de Açúcar",
+    "dicas": [
+      "Sou um ponto turístico brasileiro.",
+      "Estou localizado próximo ao mar.",
+      "Recebo visitantes por teleférico.",
+      "Sou uma formação rochosa.",
+      "Ofereço vista panorâmica.",
+      "Estou no estado do Rio de Janeiro.",
+      "Sou um dos cartões-postais do país.",
+      "Fico na entrada da Baía de Guanabara.",
+      "Meu nome também é usado para um tipo de açúcar antigo.",
+      "Estou na cidade do Rio de Janeiro."
+    ]
+  },
+  {
+    "categoria": "Lugar",
+    "resposta": "Brasília",
+    "dicas": [
+      "Sou uma cidade planejada.",
+      "Fui inaugurada em 1960.",
+      "Sou um importante centro político.",
+      "Minha arquitetura é muito famosa.",
+      "Fui projetada por urbanistas renomados.",
+      "Possuo formato associado a um avião.",
+      "Abrigo os principais poderes do país.",
+      "Estou localizada no Centro-Oeste.",
+      "Sou a capital do Brasil.",
+      "Meu nome começa com B."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Titanic",
+    "dicas": [
+      "Fui lançado na década de 1990.",
+      "Sou baseado em um acontecimento real.",
+      "Tenho uma famosa história de amor.",
+      "Um grande navio faz parte da minha trama.",
+      "Ganhei diversos prêmios.",
+      "Fui dirigido por James Cameron.",
+      "Leonardo DiCaprio está no elenco.",
+      "Kate Winslet também participa.",
+      "Uma cena na proa do navio ficou icônica.",
+      "Meu nome é o mesmo do navio retratado."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Avatar",
+    "dicas": [
+      "Fui dirigido por James Cameron.",
+      "Minha história acontece em outro planeta.",
+      "Possuo muitos efeitos visuais.",
+      "Fui um grande sucesso de bilheteria.",
+      "Criaturas azuis aparecem em minha trama.",
+      "Minha tecnologia revolucionou o cinema.",
+      "Minha história se passa em Pandora.",
+      "Tenho continuações.",
+      "Misturo ficção científica e aventura.",
+      "Meu título possui seis letras."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Jurassic Park",
+    "dicas": [
+      "Fui lançado nos anos 1990.",
+      "Fui dirigido por Steven Spielberg.",
+      "Animais extintos voltam à vida em minha história.",
+      "Tenho cenas em uma ilha.",
+      "Sou baseado em um livro.",
+      "Fiquei famoso pelos efeitos especiais.",
+      "Um parque temático é central na trama.",
+      "Meus protagonistas enfrentam grandes perigos.",
+      "Dinossauros aparecem o tempo todo.",
+      "Meu nome contém a palavra 'Park'."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "O Rei Leão",
+    "dicas": [
+      "Sou uma animação.",
+      "Fui produzido pela Disney.",
+      "Minha história se passa na África.",
+      "Tenho personagens animais.",
+      "Uma música chamada 'Hakuna Matata' faz parte de mim.",
+      "Meu protagonista perde o pai.",
+      "Tenho um javali e um suricato entre os personagens.",
+      "Fui relançado em versão live-action.",
+      "Meu personagem principal é um felino.",
+      "Meu título fala sobre realeza."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Frozen",
+    "dicas": [
+      "Sou uma animação da Disney.",
+      "Tenho duas irmãs como protagonistas.",
+      "Fui lançado em 2013.",
+      "Uma canção minha se tornou mundialmente famosa.",
+      "Tenho poderes mágicos na história.",
+      "Grande parte da trama acontece em um reino.",
+      "Recebi uma continuação.",
+      "Neve e gelo são temas importantes.",
+      "Uma personagem chamada Elsa faz parte da trama.",
+      "Meu título significa 'congelado'."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Shrek",
+    "dicas": [
+      "Sou uma animação.",
+      "Meu protagonista vive em um pântano.",
+      "Tenho muito humor.",
+      "Fui produzido pela DreamWorks.",
+      "Um burro falante é meu companheiro.",
+      "Parodio contos de fadas.",
+      "Tenho várias continuações.",
+      "Minha princesa possui um segredo.",
+      "Meu protagonista é um ogro.",
+      "Meu título é o nome do personagem principal."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Toy Story",
+    "dicas": [
+      "Sou uma animação.",
+      "Fui produzido pela Pixar.",
+      "Brinquedos ganham vida em minha história.",
+      "Tenho várias continuações.",
+      "Um cowboy é um dos protagonistas.",
+      "Um patrulheiro espacial também é protagonista.",
+      "Fui pioneiro em animação por computador.",
+      "Andy é um personagem importante.",
+      "Meus personagens escondem sua vida secreta dos humanos.",
+      "Meu título envolve brinquedos."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Procurando Nemo",
+    "dicas": [
+      "Sou uma animação da Pixar.",
+      "Minha história acontece no oceano.",
+      "Um pai procura seu filho.",
+      "Uma personagem tem problemas de memória.",
+      "Tenho uma sequência focada nessa personagem.",
+      "Tubarões aparecem em minha trama.",
+      "Grande parte da aventura ocorre debaixo d'água.",
+      "Meu protagonista é um peixe-palhaço.",
+      "O nome do personagem principal está no título.",
+      "Sou um dos filmes mais famosos da Pixar."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Harry Potter e a Pedra Filosofal",
+    "dicas": [
+      "Sou baseado em um livro.",
+      "Sou o primeiro filme de uma famosa franquia.",
+      "Meu protagonista usa óculos.",
+      "A magia é parte essencial da história.",
+      "Uma escola muito famosa aparece em mim.",
+      "Tenho um diretor chamado Alvo Dumbledore.",
+      "Bruxos e feiticeiros aparecem constantemente.",
+      "Meu protagonista possui uma cicatriz.",
+      "Hogwarts é o principal cenário.",
+      "Meu título contém um objeto lendário."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Vingadores: Ultimato",
+    "dicas": [
+      "Sou um filme de super-heróis.",
+      "Faço parte do universo Marvel.",
+      "Fui lançado em 2019.",
+      "Reuni diversos personagens famosos.",
+      "Sou continuação direta de outro filme.",
+      "Tenho uma batalha épica no final.",
+      "Envolvo viagens no tempo.",
+      "Meu vilão utiliza joias poderosas.",
+      "Fui uma das maiores bilheterias da história.",
+      "Meu título indica um confronto final."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Homem-Aranha",
+    "dicas": [
+      "Sou baseado em um personagem dos quadrinhos.",
+      "Meu protagonista vive em Nova York.",
+      "Tenho relação com aracnídeos.",
+      "Meu herói usa uma máscara.",
+      "Posso balançar entre prédios.",
+      "Tenho várias versões no cinema.",
+      "Meu protagonista se chama Peter Parker.",
+      "Ganhei diversas adaptações.",
+      "Combato o crime.",
+      "Meu nome indica um animal."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Batman: O Cavaleiro das Trevas",
+    "dicas": [
+      "Sou um filme de super-herói.",
+      "Tenho um vilão muito famoso.",
+      "Christopher Nolan me dirigiu.",
+      "Minha história acontece em Gotham.",
+      "Meu protagonista não possui superpoderes.",
+      "Utilizo muitos equipamentos tecnológicos.",
+      "Recebi elogios da crítica.",
+      "O Coringa é um personagem central.",
+      "Meu herói usa um símbolo de morcego.",
+      "Meu título fala sobre um cavaleiro."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Forrest Gump",
+    "dicas": [
+      "Fui lançado nos anos 1990.",
+      "Meu protagonista conta sua própria história.",
+      "Ganhei vários Oscars.",
+      "Tom Hanks interpreta o personagem principal.",
+      "Minha trama passa por diversos eventos históricos.",
+      "Tenho frases muito famosas.",
+      "Meu protagonista gosta de correr.",
+      "Misturo drama e comédia.",
+      "Uma caixa de chocolates é importante em uma cena.",
+      "Meu título é o nome do protagonista."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "O Senhor dos Anéis: A Sociedade do Anel",
+    "dicas": [
+      "Sou baseado em uma obra literária.",
+      "Faço parte de uma trilogia.",
+      "Minha história acontece em um mundo fantástico.",
+      "Tenho elfos, anões e magos.",
+      "Um objeto muito poderoso move a trama.",
+      "Fui dirigido por Peter Jackson.",
+      "Meu protagonista é um hobbit.",
+      "A Terra-média é o cenário principal.",
+      "Recebi diversos prêmios.",
+      "Meu título envolve uma irmandade."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Star Wars",
+    "dicas": [
+      "Sou uma famosa franquia de ficção científica.",
+      "Minha história se passa em uma galáxia distante.",
+      "Tenho cavaleiros especiais.",
+      "Espadas luminosas aparecem frequentemente.",
+      "Existe um lado sombrio em minha trama.",
+      "Fui criado por George Lucas.",
+      "Tenho várias continuações e derivados.",
+      "A Força é um conceito importante.",
+      "Darth Vader é um dos meus personagens mais famosos.",
+      "Meu título envolve guerras."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Matrix",
+    "dicas": [
+      "Sou um filme de ficção científica.",
+      "Fui lançado em 1999.",
+      "Questiono a realidade.",
+      "Tenho cenas famosas de ação.",
+      "Meu protagonista faz uma escolha importante.",
+      "Computadores desempenham papel central.",
+      "Tenho continuações.",
+      "Keanu Reeves interpreta o personagem principal.",
+      "Meu protagonista é conhecido como Neo.",
+      "Meu título é uma palavra muito usada em matemática."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "De Volta para o Futuro",
+    "dicas": [
+      "Sou um filme dos anos 1980.",
+      "Envolvo viagens temporais.",
+      "Tenho um cientista excêntrico.",
+      "Meu protagonista é um adolescente.",
+      "Um carro especial é essencial para a trama.",
+      "Recebi continuações.",
+      "Misturo ficção científica e comédia.",
+      "Meu cientista é conhecido como Doc.",
+      "O veículo principal é um DeLorean.",
+      "Meu título fala sobre tempo."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Os Incríveis",
+    "dicas": [
+      "Sou uma animação da Pixar.",
+      "Minha história acompanha uma família.",
+      "Todos os membros possuem habilidades especiais.",
+      "Misturo ação e humor.",
+      "Tenho uma continuação.",
+      "Meu pai protagonista já foi um herói famoso.",
+      "Combato supervilões.",
+      "Tenho um bebê com poderes surpreendentes.",
+      "Sou um filme de super-heróis.",
+      "Meu título descreve algo extraordinário."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Up: Altas Aventuras",
+    "dicas": [
+      "Sou uma animação da Pixar.",
+      "Meu protagonista é um idoso.",
+      "Uma casa desempenha papel central na história.",
+      "Tenho uma abertura muito emocionante.",
+      "Um garoto acompanha a aventura.",
+      "Um cachorro falante aparece em minha trama.",
+      "Viajo para locais distantes.",
+      "Milhares de objetos coloridos ajudam na jornada.",
+      "Esses objetos são balões.",
+      "Meu título é uma palavra curta em inglês."
+    ]
+  },
+  {
+    "categoria": "Filme",
+    "resposta": "Pantera Negra",
+    "dicas": [
+      "Sou um filme da Marvel.",
+      "Meu protagonista é um rei.",
+      "Tenho tecnologia avançada.",
+      "Minha história se passa em um país fictício.",
+      "Fui um marco cultural no cinema.",
+      "Recebi várias indicações ao Oscar.",
+      "Vibranium é um recurso importante.",
+      "Meu herói utiliza um traje especial.",
+      "Wakanda é o principal cenário.",
+      "Meu título contém o nome de um felino."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Relógio",
+    "dicas": [
+      "Sou usado diariamente por muitas pessoas.",
+      "Posso ser encontrado no pulso.",
+      "Existo em versões analógicas e digitais.",
+      "Ajudo na organização do dia.",
+      "Tenho ponteiros em algumas versões.",
+      "Posso emitir alarmes.",
+      "Muitas pessoas me consultam várias vezes ao dia.",
+      "Indico horas, minutos e segundos.",
+      "Sou associado à pontualidade.",
+      "Minha principal função é medir o tempo."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Guarda-Chuva",
+    "dicas": [
+      "Sou muito útil em dias específicos.",
+      "Posso ser dobrável.",
+      "Costumo ser carregado na mão.",
+      "Tenho uma estrutura com hastes.",
+      "Existem versões coloridas.",
+      "Fico fechado quando não estou em uso.",
+      "Sou aberto acima da cabeça.",
+      "Protejo contra gotas que caem do céu.",
+      "Meu nome possui duas palavras.",
+      "Sou usado durante a chuva."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Lápis",
+    "dicas": [
+      "Sou muito utilizado em escolas.",
+      "Posso ser apontado.",
+      "Costumo ser feito de madeira.",
+      "Tenho uma borracha em algumas versões.",
+      "Sou usado para desenhar.",
+      "Posso ser apagado facilmente.",
+      "Minha ponta se desgasta com o uso.",
+      "Utilizo grafite.",
+      "Sirvo para escrever.",
+      "Meu nome começa com L."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Tesoura",
+    "dicas": [
+      "Tenho duas lâminas.",
+      "Sou encontrada em escritórios.",
+      "Posso cortar diversos materiais.",
+      "Tenho um eixo central.",
+      "Sou usada em trabalhos escolares.",
+      "Possuo dois espaços para os dedos.",
+      "Existo em vários tamanhos.",
+      "Preciso ser manuseada com cuidado.",
+      "Meu movimento é de abrir e fechar.",
+      "Sirvo para cortar."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Mochila",
+    "dicas": [
+      "Sou usada para transportar objetos.",
+      "Costumo ser carregada nas costas.",
+      "Possuo alças.",
+      "Sou muito comum entre estudantes.",
+      "Tenho compartimentos internos.",
+      "Posso guardar livros.",
+      "Existo em vários tamanhos.",
+      "Também sou usada em viagens.",
+      "Posso ter zíperes.",
+      "Meu nome começa com M."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Lanterna",
+    "dicas": [
+      "Sou útil durante apagões.",
+      "Posso funcionar com pilhas.",
+      "Sou portátil.",
+      "Costumo ser usada à noite.",
+      "Produzo iluminação direcionada.",
+      "Sou levada em acampamentos.",
+      "Posso caber em uma mochila.",
+      "Tenho um botão para ligar.",
+      "Ajudo em locais escuros.",
+      "Emito luz."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Martelo",
+    "dicas": [
+      "Sou uma ferramenta.",
+      "Tenho um cabo.",
+      "Sou comum em caixas de ferramentas.",
+      "Posso ser usado na construção.",
+      "Tenho uma parte metálica.",
+      "Exerço força por impacto.",
+      "Sou utilizado por carpinteiros.",
+      "Posso remover pregos em algumas versões.",
+      "Faço parte de reformas.",
+      "Sirvo para bater pregos."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Chave",
+    "dicas": [
+      "Sou geralmente feita de metal.",
+      "Posso ser carregada no bolso.",
+      "Costumo ficar em chaveiros.",
+      "Tenho formatos variados.",
+      "Sou usada em portas.",
+      "Posso abrir fechaduras.",
+      "Algumas pessoas me perdem com frequência.",
+      "Tenho dentes característicos.",
+      "Sou importante para a segurança.",
+      "Permito acesso a locais fechados."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Óculos",
+    "dicas": [
+      "Posso ter lentes transparentes.",
+      "Sou usado no rosto.",
+      "Ajudo milhões de pessoas diariamente.",
+      "Tenho duas hastes laterais.",
+      "Posso proteger do sol.",
+      "Existem modelos de grau.",
+      "Fico apoiado sobre o nariz.",
+      "Melhoro a visão de muitas pessoas.",
+      "Posso ser um acessório de moda.",
+      "Meu nome é usado sempre no plural."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Escova de Dentes",
+    "dicas": [
+      "Sou encontrada em banheiros.",
+      "Sou utilizada diariamente.",
+      "Tenho cerdas.",
+      "Costumo ser usada com outro produto.",
+      "Existo em versões manuais e elétricas.",
+      "Ajudo na higiene pessoal.",
+      "Sou recomendada por dentistas.",
+      "Devo ser trocada periodicamente.",
+      "Cuido da saúde bucal.",
+      "Sirvo para limpar os dentes."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Cadeira",
+    "dicas": [
+      "Sou encontrada em casas e escritórios.",
+      "Tenho pernas.",
+      "Posso ser feita de madeira.",
+      "Costumo ficar próxima de mesas.",
+      "Existo em vários modelos.",
+      "Algumas versões possuem rodas.",
+      "Tenho encosto.",
+      "Sirvo para descansar.",
+      "Sou um móvel.",
+      "As pessoas se sentam em mim."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Livro",
+    "dicas": [
+      "Posso contar histórias.",
+      "Sou encontrado em bibliotecas.",
+      "Tenho páginas.",
+      "Posso ensinar diversos assuntos.",
+      "Existo em formato físico e digital.",
+      "Tenho capa.",
+      "Sou lido por pessoas de todas as idades.",
+      "Posso ser emprestado.",
+      "Contenho textos e às vezes imagens.",
+      "Sou usado para leitura."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Telefone",
+    "dicas": [
+      "Sou usado para comunicação.",
+      "Posso realizar chamadas.",
+      "Existo há muitas décadas.",
+      "Atualmente tenho versões inteligentes.",
+      "Posso enviar mensagens.",
+      "Sou encontrado em quase todas as casas.",
+      "Tenho teclado físico ou virtual.",
+      "Posso acessar a internet.",
+      "Conecto pessoas distantes.",
+      "Meu nome começa com T."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Ventilador",
+    "dicas": [
+      "Sou muito utilizado no verão.",
+      "Funciono com energia elétrica.",
+      "Tenho hélices.",
+      "Posso ficar no teto ou no chão.",
+      "Produzo movimento de ar.",
+      "Ajudo a aliviar o calor.",
+      "Tenho diferentes velocidades.",
+      "Sou comum em residências.",
+      "Posso fazer barulho ao funcionar.",
+      "Sirvo para refrescar ambientes."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Bicicleta",
+    "dicas": [
+      "Sou um meio de transporte.",
+      "Tenho duas rodas.",
+      "Não preciso de combustível.",
+      "Possuo pedais.",
+      "Sou usada em atividades físicas.",
+      "Posso ter marchas.",
+      "Tenho guidão.",
+      "Sou popular em parques.",
+      "Meu funcionamento depende da força humana.",
+      "Sou movida ao pedalar."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Computador",
+    "dicas": [
+      "Processo informações.",
+      "Posso acessar a internet.",
+      "Sou usado para trabalho e lazer.",
+      "Tenho memória.",
+      "Posso executar programas.",
+      "Existo em vários tamanhos.",
+      "Tenho versões portáteis.",
+      "Sou muito importante atualmente.",
+      "Possuo componentes eletrônicos.",
+      "Meu nome começa com C."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Geladeira",
+    "dicas": [
+      "Sou encontrada em cozinhas.",
+      "Funciono com energia elétrica.",
+      "Ajudo a conservar alimentos.",
+      "Tenho portas.",
+      "Posso ter congelador.",
+      "Fico ligada a maior parte do tempo.",
+      "Sou um eletrodoméstico.",
+      "Mantenho baixas temperaturas.",
+      "Guardo bebidas e comidas.",
+      "Meu interior é frio."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Espelho",
+    "dicas": [
+      "Sou encontrado em banheiros.",
+      "Tenho superfície lisa.",
+      "Posso ser decorativo.",
+      "Refleto imagens.",
+      "Sou usado para conferir a aparência.",
+      "Existo em vários formatos.",
+      "Posso ficar preso à parede.",
+      "Costumo ser feito com vidro.",
+      "Mostro quem está na minha frente.",
+      "Produzo reflexos."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Mala",
+    "dicas": [
+      "Sou muito utilizada em viagens.",
+      "Posso ter rodas.",
+      "Guardo roupas e objetos.",
+      "Tenho alça para transporte.",
+      "Existo em vários tamanhos.",
+      "Costumo acompanhar turistas.",
+      "Posso ser despachada em aeroportos.",
+      "Ajudo a organizar bagagens.",
+      "Sou fechada com zíper ou trava.",
+      "Meu nome possui quatro letras."
+    ]
+  },
+  {
+    "categoria": "Objeto",
+    "resposta": "Fone de Ouvido",
+    "dicas": [
+      "Sou usado para escutar sons.",
+      "Posso ser conectado sem fios.",
+      "Sou muito utilizado com celulares.",
+      "Tenho versões intra-auriculares.",
+      "Posso reproduzir músicas.",
+      "Também sou usado em chamadas.",
+      "Ajudo a manter privacidade sonora.",
+      "Posso reduzir ruídos externos.",
+      "Fico próximo das orelhas.",
+      "Meu nome possui três palavras."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Leão",
+    "dicas": [
+      "Sou um mamífero.",
+      "Vivo principalmente na África.",
+      "Sou considerado um grande predador.",
+      "Os machos possuem uma característica marcante ao redor da cabeça.",
+      "Vivo em grupos chamados alcateias.",
+      "Costumo caçar grandes herbívoros.",
+      "Meu rugido pode ser ouvido a quilômetros de distância.",
+      "Sou conhecido como o rei da selva.",
+      "Tenho pelagem amarelada.",
+      "Meu nome possui cinco letras."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Elefante",
+    "dicas": [
+      "Sou um mamífero terrestre.",
+      "Estou entre os maiores animais da terra.",
+      "Tenho presas de marfim.",
+      "Minha memória é famosa.",
+      "Possuo grandes orelhas.",
+      "Vivo na África e na Ásia.",
+      "Sou herbívoro.",
+      "Uso uma parte do corpo para pegar objetos e beber água.",
+      "Posso viver muitas décadas.",
+      "Tenho uma longa tromba."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Girafa",
+    "dicas": [
+      "Sou um mamífero africano.",
+      "Tenho manchas pelo corpo.",
+      "Sou herbívora.",
+      "Consigo alcançar folhas muito altas.",
+      "Tenho pernas compridas.",
+      "Meu coração é muito forte.",
+      "Sou um dos animais mais altos do mundo.",
+      "Vivo em savanas.",
+      "Meu pescoço é minha principal característica.",
+      "Meu nome começa com G."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Tigre",
+    "dicas": [
+      "Sou um felino.",
+      "Tenho listras pelo corpo.",
+      "Sou carnívoro.",
+      "Vivo principalmente na Ásia.",
+      "Sou um excelente nadador.",
+      "Costumo caçar sozinho.",
+      "Tenho grande força física.",
+      "Sou um dos maiores felinos do mundo.",
+      "Minha pelagem é alaranjada.",
+      "Meu nome possui cinco letras."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Zebra",
+    "dicas": [
+      "Sou um mamífero africano.",
+      "Vivo em grupos.",
+      "Sou herbívora.",
+      "Tenho parentesco com cavalos.",
+      "Corro rapidamente para fugir de predadores.",
+      "Cada indivíduo possui um padrão único.",
+      "Vivo em savanas.",
+      "Minha aparência é muito fácil de reconhecer.",
+      "Tenho listras pretas e brancas.",
+      "Meu nome começa com Z."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Golfinho",
+    "dicas": [
+      "Sou um mamífero aquático.",
+      "Respiro ar.",
+      "Sou conhecido por minha inteligência.",
+      "Costumo viver em grupos.",
+      "Uso sons para me orientar.",
+      "Posso realizar saltos impressionantes.",
+      "Vivo em mares e oceanos.",
+      "Tenho corpo hidrodinâmico.",
+      "Sou muito popular em aquários.",
+      "Meu nome começa com G."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Pinguim",
+    "dicas": [
+      "Sou uma ave.",
+      "Não consigo voar.",
+      "Tenho penas.",
+      "Vivo em regiões frias.",
+      "Sou excelente nadador.",
+      "Costumo formar colônias.",
+      "Me alimento principalmente de peixes.",
+      "Minha aparência lembra um traje social.",
+      "Vivo próximo à Antártida.",
+      "Meu nome começa com P."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Canguru",
+    "dicas": [
+      "Sou um mamífero.",
+      "Vivo na Oceania.",
+      "Tenho uma bolsa para carregar meus filhotes.",
+      "Consigo dar grandes saltos.",
+      "Tenho patas traseiras fortes.",
+      "Minha cauda ajuda no equilíbrio.",
+      "Sou herbívoro.",
+      "Sou um símbolo de um país.",
+      "Vivo principalmente na Austrália.",
+      "Meu nome começa com C."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Coruja",
+    "dicas": [
+      "Sou uma ave.",
+      "Tenho hábitos noturnos.",
+      "Consigo girar bastante a cabeça.",
+      "Possuo visão aguçada.",
+      "Sou uma caçadora eficiente.",
+      "Meu voo é silencioso.",
+      "Costumo viver em florestas.",
+      "Sou associada à sabedoria.",
+      "Tenho olhos grandes.",
+      "Meu nome começa com C."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Tartaruga",
+    "dicas": [
+      "Sou um réptil.",
+      "Tenho uma estrutura rígida protegendo meu corpo.",
+      "Posso viver muitos anos.",
+      "Existem espécies terrestres e aquáticas.",
+      "Me movimento lentamente em terra.",
+      "Coloco ovos.",
+      "Posso recolher parte do corpo para me proteger.",
+      "Sou encontrada em diversos continentes.",
+      "Minha principal proteção é o casco.",
+      "Meu nome começa com T."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Lobo",
+    "dicas": [
+      "Sou um mamífero.",
+      "Vivo em matilhas.",
+      "Sou carnívoro.",
+      "Tenho excelente audição.",
+      "Posso percorrer grandes distâncias.",
+      "Sou ancestral de um animal doméstico muito popular.",
+      "Costumo caçar em grupo.",
+      "Meu uivo é famoso.",
+      "Tenho aparência semelhante à de cães.",
+      "Meu nome possui quatro letras."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Jacaré",
+    "dicas": [
+      "Sou um réptil.",
+      "Passo muito tempo na água.",
+      "Tenho dentes afiados.",
+      "Sou carnívoro.",
+      "Possuo uma mordida poderosa.",
+      "Posso ficar imóvel por longos períodos.",
+      "Vivo em rios e lagoas.",
+      "Tenho pele resistente.",
+      "Meu focinho é comprido.",
+      "Meu nome começa com J."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Polvo",
+    "dicas": [
+      "Sou um animal marinho.",
+      "Não tenho esqueleto.",
+      "Consigo mudar de cor.",
+      "Sou muito inteligente.",
+      "Posso liberar tinta para escapar de predadores.",
+      "Vivo nos oceanos.",
+      "Tenho ventosas.",
+      "Consigo passar por espaços pequenos.",
+      "Possuo oito braços.",
+      "Meu nome começa com P."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Camaleão",
+    "dicas": [
+      "Sou um réptil.",
+      "Posso mudar minha coloração.",
+      "Tenho língua longa.",
+      "Me alimento de insetos.",
+      "Consigo mover meus olhos independentemente.",
+      "Vivo principalmente em árvores.",
+      "Sou encontrado em regiões tropicais.",
+      "Tenho patas adaptadas para escalar.",
+      "Sou famoso pela camuflagem.",
+      "Meu nome começa com C."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Urso Panda",
+    "dicas": [
+      "Sou um mamífero.",
+      "Tenho pelagem de duas cores.",
+      "Vivo na Ásia.",
+      "Sou um símbolo da conservação ambiental.",
+      "Passo grande parte do dia me alimentando.",
+      "Tenho aparência amigável.",
+      "Sou encontrado principalmente na China.",
+      "Meu alimento favorito é um tipo de planta.",
+      "Minha pelagem é preta e branca.",
+      "Adoro bambu."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Águia",
+    "dicas": [
+      "Sou uma ave de rapina.",
+      "Tenho visão extremamente aguçada.",
+      "Possuo garras fortes.",
+      "Costumo construir ninhos em locais elevados.",
+      "Sou carnívora.",
+      "Posso atingir grandes velocidades.",
+      "Sou símbolo de vários países.",
+      "Voo a grandes altitudes.",
+      "Tenho bico curvo.",
+      "Meu nome começa com A."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Hipopótamo",
+    "dicas": [
+      "Sou um mamífero.",
+      "Passo boa parte do tempo na água.",
+      "Tenho corpo muito pesado.",
+      "Vivo na África.",
+      "Sou herbívoro.",
+      "Possuo uma boca enorme.",
+      "Posso parecer lento, mas corro rápido.",
+      "Vivo próximo a rios.",
+      "Minha pele é grossa.",
+      "Meu nome começa com H."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Rinoceronte",
+    "dicas": [
+      "Sou um mamífero.",
+      "Tenho pele espessa.",
+      "Vivo na África e na Ásia.",
+      "Sou herbívoro.",
+      "Tenho grande porte.",
+      "Posso correr rapidamente.",
+      "Estou ameaçado em algumas regiões.",
+      "Possuo um chifre característico.",
+      "Sou um dos maiores mamíferos terrestres.",
+      "Meu nome começa com R."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Preguiça",
+    "dicas": [
+      "Sou um mamífero.",
+      "Vivo em árvores.",
+      "Tenho movimentos lentos.",
+      "Sou encontrada na América do Sul.",
+      "Minha alimentação é baseada em folhas.",
+      "Passo grande parte da vida pendurada.",
+      "Tenho garras longas.",
+      "Durmo muitas horas por dia.",
+      "Meu nome também descreve um comportamento humano.",
+      "Meu nome começa com P."
+    ]
+  },
+  {
+    "categoria": "Animal",
+    "resposta": "Abelha",
+    "dicas": [
+      "Sou um inseto.",
+      "Vivo em colônias.",
+      "Produzo um alimento muito apreciado.",
+      "Ajudo na reprodução das plantas.",
+      "Tenho asas.",
+      "Posso ferroar para me defender.",
+      "Minha rainha é muito importante para o grupo.",
+      "Sou essencial para diversos ecossistemas.",
+      "Participo da polinização.",
+      "Produzo mel."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Pizza",
+    "dicas": [
+      "Sou uma Comida muito popular no mundo inteiro.",
+      "Minha massa é assada no forno.",
+      "Costumo ser redonda.",
+      "Posso ter queijo como ingrediente principal.",
+      "Existem versões doces e salgadas.",
+      "Tenho origem na Itália.",
+      "Posso ser dividida em fatias.",
+      "Calabresa é um sabor famoso.",
+      "Muitas pessoas me comem nos finais de semana.",
+      "Sou entregue frequentemente por delivery."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Hambúrguer",
+    "dicas": [
+      "Sou muito comum em lanchonetes.",
+      "Costumo ser servido dentro de pão.",
+      "Posso ter queijo derretido.",
+      "Alface e tomate costumam me acompanhar.",
+      "Existem versões artesanais.",
+      "Meu ingrediente principal geralmente é carne.",
+      "Posso ser feito na churrasqueira.",
+      "Faço parte do cardápio de fast-foods.",
+      "Batata frita costuma vir junto comigo.",
+      "Sou um dos lanches mais famosos do mundo."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Sushi",
+    "dicas": [
+      "Tenho origem no Japão.",
+      "Costumo ser preparado com arroz.",
+      "Posso conter peixe cru.",
+      "Sou servido em pequenas porções.",
+      "Hashis são usados para me comer.",
+      "Shoyu costuma me acompanhar.",
+      "Existem vários formatos meus.",
+      "Sou comum em restaurantes orientais.",
+      "Algumas versões levam algas.",
+      "Sou uma das Comidas japonesas mais conhecidas."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Lasanha",
+    "dicas": [
+      "Tenho origem italiana.",
+      "Sou feita em camadas.",
+      "Levo massa na minha preparação.",
+      "Molho de tomate costuma estar presente.",
+      "Posso ser recheada com carne.",
+      "Queijo derretido me cobre frequentemente.",
+      "Sou assada no forno.",
+      "Costumo ser servida em pedaços.",
+      "Sou comum em almoços de família.",
+      "Meu nome termina com 'nha'."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Feijoada",
+    "dicas": [
+      "Sou um prato tradicional brasileiro.",
+      "Meu ingrediente principal é o feijão.",
+      "Costumo ser servida aos sábados.",
+      "Levo diferentes tipos de carne.",
+      "Arroz costuma me acompanhar.",
+      "Farofa também é servida comigo.",
+      "Laranja combina comigo.",
+      "Sou considerada uma refeição pesada.",
+      "Tenho cor escura.",
+      "Sou um símbolo da culinária do Brasil."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Coxinha",
+    "dicas": [
+      "Sou um salgado muito popular no Brasil.",
+      "Tenho formato característico.",
+      "Costumo ser frita.",
+      "Meu recheio tradicional é frango.",
+      "Posso ser encontrada em padarias.",
+      "Tenho uma camada de massa por fora.",
+      "Sou servida em festas.",
+      "Minha cobertura é empanada.",
+      "Muitas pessoas me comem como lanche.",
+      "Meu nome lembra uma parte da galinha."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Brigadeiro",
+    "dicas": [
+      "Sou um doce brasileiro.",
+      "Leite condensado é essencial para mim.",
+      "Chocolate faz parte da minha receita.",
+      "Sou muito comum em festas de aniversário.",
+      "Posso ser enrolado em bolinhas.",
+      "Granulado costuma me cobrir.",
+      "Sou pequeno e doce.",
+      "Sou servido em forminhas.",
+      "Crianças costumam gostar de mim.",
+      "Sou um dos doces mais famosos do Brasil."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Pão de Queijo",
+    "dicas": [
+      "Sou muito associado a Minas Gerais.",
+      "Tenho queijo na minha receita.",
+      "Sou assado.",
+      "Costumo ser consumido no café da manhã.",
+      "Tenho tamanho pequeno.",
+      "Minha massa leva polvilho.",
+      "Posso ser servido quente.",
+      "Sou crocante por fora.",
+      "Sou popular em todo o Brasil.",
+      "Meu nome revela um dos meus ingredientes."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Taco",
+    "dicas": [
+      "Tenho origem no México.",
+      "Posso ser recheado com carne.",
+      "Sou montado em uma tortilha.",
+      "Pimenta costuma me acompanhar.",
+      "Posso conter queijo.",
+      "Sou consumido com as mãos.",
+      "Existem versões crocantes.",
+      "Sou muito popular na culinária mexicana.",
+      "Meu formato lembra uma concha aberta.",
+      "Meu nome possui apenas quatro letras."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Paella",
+    "dicas": [
+      "Tenho origem na Espanha.",
+      "Sou preparada em uma panela larga.",
+      "Arroz é meu ingrediente principal.",
+      "Posso levar frutos do mar.",
+      "Tenho cor amarelada.",
+      "Açafrão é usado em minha receita.",
+      "Sou servida em reuniões familiares.",
+      "Existem diferentes versões minhas.",
+      "Sou um prato tradicional espanhol.",
+      "Meu nome começa com a letra P."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Churrasco",
+    "dicas": [
+      "Sou muito popular no Brasil.",
+      "Sou preparado no fogo.",
+      "Carne é meu ingrediente principal.",
+      "Posso ser feito em uma churrasqueira.",
+      "Espetos costumam ser usados.",
+      "Sou comum em encontros de família.",
+      "Farofa pode me acompanhar.",
+      "Existem rodízios dedicados a mim.",
+      "Tenho forte ligação com o sul do Brasil.",
+      "Meu aroma costuma abrir o apetite."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Panqueca",
+    "dicas": [
+      "Sou feita com uma massa fina.",
+      "Posso ter recheios doces.",
+      "Também posso ter recheios salgados.",
+      "Sou preparada em uma frigideira.",
+      "Posso ser enrolada.",
+      "Existo em diversos países.",
+      "Minha massa leva ovos.",
+      "Posso ser servida no café da manhã.",
+      "Mel costuma me acompanhar em algumas versões.",
+      "Meu nome começa com P."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Sorvete",
+    "dicas": [
+      "Sou consumido gelado.",
+      "Faço sucesso em dias quentes.",
+      "Existo em muitos sabores.",
+      "Posso ser servido em casquinha.",
+      "Chocolate é um sabor famoso.",
+      "Morangos podem fazer parte de mim.",
+      "Sou encontrado em sorveterias.",
+      "Crianças e adultos gostam de mim.",
+      "Posso derreter facilmente.",
+      "Sou uma sobremesa muito popular."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Bolo",
+    "dicas": [
+      "Sou comum em comemorações.",
+      "Posso ter cobertura.",
+      "Chocolate é uma versão famosa.",
+      "Sou assado no forno.",
+      "Posso ter várias camadas.",
+      "Velas costumam ser colocadas sobre mim.",
+      "Sou servido em fatias.",
+      "Faço parte de aniversários.",
+      "Existem receitas simples e sofisticadas.",
+      "Sou uma sobremesa clássica."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Açaí",
+    "dicas": [
+      "Sou originário da região amazônica.",
+      "Tenho cor roxa escura.",
+      "Sou feito a partir de uma fruta.",
+      "Costumo ser servido gelado.",
+      "Granola frequentemente me acompanha.",
+      "Banana pode ser adicionada a mim.",
+      "Sou popular entre praticantes de esportes.",
+      "Posso ser consumido em tigelas.",
+      "Meu nome possui um caractere especial.",
+      "Sou muito popular no Brasil."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Risoto",
+    "dicas": [
+      "Tenho origem italiana.",
+      "Arroz é meu ingrediente principal.",
+      "Minha textura costuma ser cremosa.",
+      "Posso levar cogumelos.",
+      "Queijo costuma estar presente.",
+      "Sou preparado mexendo constantemente.",
+      "Existem muitas variações minhas.",
+      "Sou servido como prato principal.",
+      "Vinho pode ser usado na minha receita.",
+      "Meu nome termina com 'to'."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Hot Dog",
+    "dicas": [
+      "Sou um lanche popular.",
+      "Levo salsicha como ingrediente principal.",
+      "Sou servido dentro de pão.",
+      "Molhos costumam me acompanhar.",
+      "Posso ter milho e ervilha no Brasil.",
+      "Sou vendido em carrinhos de rua.",
+      "Meu nome está em inglês.",
+      "Sou consumido com as mãos.",
+      "Faço parte da categoria fast-food.",
+      "Minha tradução literal envolve um animal."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Macarronada",
+    "dicas": [
+      "Sou feita com massa.",
+      "Molho de tomate combina comigo.",
+      "Tenho origem relacionada à culinária italiana.",
+      "Posso ser acompanhada por almôndegas.",
+      "Sou comum em almoços de domingo.",
+      "Existem diversos formatos para minha massa.",
+      "Queijo ralado costuma ser adicionado.",
+      "Sou cozida em água quente.",
+      "Sou um prato muito popular.",
+      "Meu nome vem de um alimento conhecido."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Yakisoba",
+    "dicas": [
+      "Tenho origem asiática.",
+      "Levo macarrão na receita.",
+      "Legumes costumam fazer parte de mim.",
+      "Posso conter carne ou frango.",
+      "Sou preparado em fogo alto.",
+      "Molho especial dá sabor a mim.",
+      "Sou popular em restaurantes orientais.",
+      "Meu nome tem origem japonesa.",
+      "Sou servido quente.",
+      "Misturo vários ingredientes em um único prato."
+    ]
+  },
+  {
+    "categoria": "Comida",
+    "resposta": "Torta",
+    "dicas": [
+      "Posso ser doce ou salgada.",
+      "Tenho massa envolvendo recheio.",
+      "Sou assada frequentemente.",
+      "Posso levar frutas.",
+      "Também posso levar frango.",
+      "Sou servida em fatias.",
+      "Existem versões grandes e pequenas.",
+      "Sou comum em festas e reuniões.",
+      "Minha aparência varia bastante.",
+      "Meu nome possui cinco letras."
+    ]
+  },
+  {
     "categoria": "Pessoa",
     "resposta": "Albert Einstein",
     "dicas": [
