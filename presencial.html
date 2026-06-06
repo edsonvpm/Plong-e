@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plong-e Presencial</title>
+
+<link rel="stylesheet" href="style.css">
+<script src="presencial.js" defer></script>
+
+<style>
+.carta-presencial{
+    background:#0f172a;
+    border-radius:16px;
+    padding:20px;
+    margin-top:20px;
+    border:3px solid #475569;
+}
+
+.categoria-carta{
+    text-align:center;
+    font-size:1.1rem;
+    margin-bottom:15px;
+    opacity:.8;
+}
+
+.resposta-carta{
+    text-align:center;
+    font-size:2rem;
+    font-weight:bold;
+    margin-bottom:20px;
+    color:#facc15;
+}
+
+.lista-dicas{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.dica-item{
+    background:#1e293b;
+    padding:12px;
+    border-radius:10px;
+}
+
+.btn-nova-carta{
+    width:100%;
+    margin-top:20px;
+}
+
+@media (max-width:600px){
+
+    .resposta-carta{
+        font-size:1.5rem;
+    }
+
+}
+</style>
+
+</head>
+<body>
+<nav class="menu-superior">
+
+    <div class="menu-conteudo">
+        <div class="logo">
+            🎭 Plong-e
+        </div>
+        <div class="menu-links">
+            <a href="index.html">
+                Online
+            </a>
+            <a href="presencial.html" class="ativo">
+                Presencial
+            </a>
+        </div>
+    </div>
+
+</nav>
+<div class="container">
+
+    <h1>🎭 Plong-e Presencial</h1>
+
+    <div class="categorias">
+
+        <h3>Categorias</h3>
+
+        <button onclick="alternarCategorias()">
+            Selecionar/Desmarcar Todas
+        </button>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Pessoa" checked>
+            Pessoas
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Lugar" checked>
+            Lugares
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Objeto" checked>
+            Objetos
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Animal" checked>
+            Animais
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Comida" checked>
+            Comida
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Filme" checked>
+            Filmes
+        </label>
+
+    </div>
+
+    <div class="carta-presencial">
+
+        <div
+            class="categoria-carta"
+            id="categoria">
+        </div>
+
+        <div
+            class="resposta-carta"
+            id="respostaCarta">
+        </div>
+
+        <div
+            class="lista-dicas"
+            id="listaDicas">
+        </div>
+
+    </div>
+
+    <button
+        class="btn-nova-palavra btn-nova-carta"
+        onclick="novaCarta()">
+        🎲 Nova Carta
+    </button>
+
+</div>
+
+</body>
+</html>
