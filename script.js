@@ -24,7 +24,8 @@ async function carregarCartas() {
         iniciarRodada();
     }
     catch (erro) {
-        console.error(erro);
+        console.error("Erro ao carregar cartas:", erro);
+
         mensagemEl.textContent =
             "Erro ao carregar o banco de cartas.";
     }
@@ -69,25 +70,33 @@ function iniciarRodada() {
     mensagemEl.textContent = "";
 
     respostaEl.value = "";
+    console.log(categoriasSelecionadas);
 }
 
 function trocarCarta() {
 
-    const container = document.querySelector(".container");
+    const container =
+        document.querySelector(".container");
 
     container.classList.add("fade-out");
 
     setTimeout(() => {
+
         iniciarRodada();
 
         container.classList.remove("fade-out");
+
         container.classList.add("fade-in");
+        container.classList.add("trocou-palavra");
+
+        mostrarFeedbackPalavra();
 
         setTimeout(() => {
             container.classList.remove("fade-in");
-        }, 300);
+            container.classList.remove("trocou-palavra");
+        }, 500);
 
-    }, 300);
+    }, 250);
 }
 
 function alternarCategorias() {
@@ -108,7 +117,6 @@ function alternarCategorias() {
 }
 
 function obterCategoriasSelecionadas() {
-
     return [...document.querySelectorAll(".categoria-check:checked")]
         .map(check => check.value);
 }
@@ -178,6 +186,58 @@ function desistir() {
     setTimeout(() => {
         iniciarRodada();
     }, 3000);
+}
+
+function mostrarFeedbackPalavra() {
+
+    const feedback =
+        document.getElementById("feedbackPalavra");
+
+    feedback.textContent =
+        `🎲 Nova palavra (${cartaAtual.categoria})`;
+
+    feedback.classList.add("show");
+
+    setTimeout(() => {
+        feedback.classList.remove("show");
+    }, 1500);
+}
+
+document
+    .querySelectorAll(".categoria-check")
+    .forEach(check => {
+        check.addEventListener("change", atualizarCategorias);
+    });
+
+function atualizarCategorias() {
+
+    const categoriasSelecionadas =
+        obterCategoriasSelecionadas();
+
+    if (categoriasSelecionadas.length === 0) {
+
+        mensagemEl.textContent =
+            "Selecione ao menos uma categoria.";
+
+        return;
+    }
+
+    const categoriaAtualValida =
+        cartaAtual &&
+        categoriasSelecionadas.includes(
+            cartaAtual.categoria
+        );
+
+    if (!categoriaAtualValida) {
+
+        trocarCarta();
+
+        return;
+    }
+
+    mostrarFeedbackPalavra(
+        "⚙️ Categorias atualizadas"
+    );
 }
 
 carregarCartas();
