@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎭 Perfil</h1>
+
+    <div class="info">
+        <div class="card">
+            Categoria:<br>
+            <strong id="categoria"></strong>
+        </div>
+
+        <div class="card">
+            Pontos:<br>
+            <strong id="pontos">20</strong>
+        </div>
+    </div>
+    <div class="categorias">
+        <h3>Categorias</h3>
+        <button onclick="alternarCategorias()">
+            Selecionar/Desmarcar Todas
+        </button>
+        <label>
+            <input type="checkbox" class="categoria-check" value="Pessoa" checked>
+            Pessoas
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Lugar" checked>
+            Lugares
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Objeto" checked>
+            Objetos
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Animal" checked>
+            Animais
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Comida" checked>
+            Comidas
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Filme" checked>
+            Filmes
+        </label>
+
+        <label>
+            <input type="checkbox" class="categoria-check" value="Serie" checked>
+            Séries
+        </label>
+    </div>
+    <div class="dicas" id="dicas"></div>
+
+    <div class="controls">
+        <button class="btn-dica" onclick="mostrarDica()">
+            Mostrar Dica
+        </button>
+        <button class="btn-nova-palavra" onclick="trocarCarta()">
+            🔄 Nova Palavra
+        </button>
+        <input
+            id="resposta"
+            placeholder="Digite sua resposta"
+        />
+
+        <button class="btn-responder" onclick="verificarResposta()">
+            Responder
+        </button>
+
+        <button class="btn-desistir" onclick="desistir()">
+            Desistir
+        </button>
+    </div>
+
+    <div class="mensagem" id="mensagem"></div>
+</div>
+</body>
+</html>

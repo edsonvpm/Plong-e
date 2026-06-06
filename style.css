@@ -1,0 +1,151 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#1e293b;
+    color:white;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:16px;
+}
+
+.container{
+    width:100%;
+    max-width:600px;
+    background:#334155;
+    border-radius:16px;
+    padding:20px;
+    box-shadow:0 0 20px rgba(0,0,0,.3);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.info{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:15px;
+    gap:10px;
+    flex-wrap:wrap;
+}
+
+.card{
+    background:#475569;
+    padding:10px;
+    border-radius:10px;
+    flex:1;
+    text-align:center;
+}
+
+.categorias{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom:15px;
+}
+
+.categorias h3{
+    width:100%;
+}
+
+.categorias label{
+    background:#475569;
+    padding:8px 12px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.dicas{
+    background:#0f172a;
+    border-radius:10px;
+    padding:15px;
+    min-height:150px;
+    margin-bottom:15px;
+}
+
+.dica{
+    margin-bottom:8px;
+}
+
+.controls{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+input{
+    padding:12px;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+}
+
+button{
+    padding:12px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:bold;
+}
+
+.btn-dica{
+    background:#f59e0b;
+    color:white;
+}
+
+.btn-desistir{
+    background:#f01515;
+    color:white;
+}
+.btn-nova-palavra{
+    background:#9f39e8;
+    color:white;
+}
+
+
+.btn-responder{
+    background:#22c55e;
+    color:white;
+}
+
+.mensagem{
+    margin-top:15px;
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.fade-out {
+    opacity: 0;
+    transform: scale(0.98);
+    transition: all 0.3s ease;
+}
+
+.fade-in {
+    opacity: 1;
+    transform: scale(1);
+    transition: all 0.3s ease;
+}
+
+.container {
+    opacity: 1;
+}
+
+@media (max-width:480px){
+    h1{
+        font-size:1.5rem;
+    }
+
+    .card{
+        min-width:100%;
+    }
+}

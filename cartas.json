@@ -1,0 +1,202 @@
+[
+  {
+    "categoria": "Pessoa",
+    "resposta": "Albert Einstein",
+    "dicas": [
+      "Nasci na Alemanha.",
+      "Sou cientista.",
+      "Ganhei um Prêmio Nobel.",
+      "Criei a teoria da relatividade."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Isaac Newton",
+    "dicas": [
+      "Nasci na Inglaterra.",
+      "Estudei a luz e as cores.",
+      "Formulei leis do movimento.",
+      "Sou associado a uma maçã."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Leonardo da Vinci",
+    "dicas": [
+      "Vivi durante o Renascimento.",
+      "Era inventor.",
+      "Também era pintor.",
+      "Pintei a Mona Lisa."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Napoleão Bonaparte",
+    "dicas": [
+      "Fui líder militar.",
+      "Nasci na Córsega.",
+      "Tornei-me imperador.",
+      "Fui derrotado em Waterloo."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Cleópatra",
+    "dicas": [
+      "Fui rainha.",
+      "Vivi no Egito.",
+      "Pertenci à dinastia ptolemaica.",
+      "Tive relações com Júlio César."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Cristóvão Colombo",
+    "dicas": [
+      "Fui navegador.",
+      "Cruzei o Atlântico.",
+      "Viajei a serviço da Espanha.",
+      "Cheguei à América em 1492."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "William Shakespeare",
+    "dicas": [
+      "Fui escritor.",
+      "Nasci na Inglaterra.",
+      "Escrevi peças teatrais.",
+      "Criei Romeu e Julieta."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Marie Curie",
+    "dicas": [
+      "Fui cientista.",
+      "Pesquisei radioatividade.",
+      "Ganhei dois Nobéis.",
+      "Meu sobrenome é Curie."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Mahatma Gandhi",
+    "dicas": [
+      "Lutei pela independência.",
+      "Defendia a não violência.",
+      "Vivi na Índia.",
+      "Sou chamado de Mahatma."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Nelson Mandela",
+    "dicas": [
+      "Fui preso por muitos anos.",
+      "Lutei contra o apartheid.",
+      "Vivi na África do Sul.",
+      "Tornei-me presidente."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Pelé",
+    "dicas": [
+      "Sou atleta.",
+      "Joguei futebol.",
+      "Ganhei três Copas do Mundo.",
+      "Fui chamado de Rei."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Michael Jordan",
+    "dicas": [
+      "Sou atleta.",
+      "Joguei basquete.",
+      "Atuei pelo Chicago Bulls.",
+      "Usei a camisa 23."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Steve Jobs",
+    "dicas": [
+      "Fui empresário.",
+      "Trabalhei com tecnologia.",
+      "Ajudei a fundar uma empresa famosa.",
+      "Fui líder da Apple."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Bill Gates",
+    "dicas": [
+      "Sou empresário.",
+      "Trabalhei com software.",
+      "Fundei uma empresa famosa.",
+      "Sou associado à Microsoft."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Walt Disney",
+    "dicas": [
+      "Fui produtor.",
+      "Criei personagens animados.",
+      "Fundei uma empresa de entretenimento.",
+      "Criei Mickey Mouse."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Frida Kahlo",
+    "dicas": [
+      "Fui artista.",
+      "Nasci no México.",
+      "Fazia autorretratos.",
+      "Sou um ícone da arte mexicana."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Vincent van Gogh",
+    "dicas": [
+      "Fui pintor.",
+      "Nasci na Holanda.",
+      "Pintei Noite Estrelada.",
+      "Cortei parte da minha orelha."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Júlio César",
+    "dicas": [
+      "Fui líder romano.",
+      "Participei de campanhas militares.",
+      "Cruzei o Rubicão.",
+      "Fui assassinado no Senado."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Mozart",
+    "dicas": [
+      "Fui músico.",
+      "Nasci na Áustria.",
+      "Compus desde criança.",
+      "Meu nome era Wolfgang Amadeus."
+    ]
+  },
+  {
+    "categoria": "Pessoa",
+    "resposta": "Beethoven",
+    "dicas": [
+      "Fui compositor.",
+      "Nasci na Alemanha.",
+      "Compus sinfonias famosas.",
+      "Continuei compondo mesmo surdo."
+    ]
+  }
+]
